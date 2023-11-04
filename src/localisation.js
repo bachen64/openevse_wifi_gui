@@ -210,7 +210,7 @@ i18nextko.init({
       "safetydesc": "Hardware safety checks. Enable dev mode (System > Developer Mode) to enable/disable or use the physical LCD + menu button.",
       "safetywarn": "Not all the safety tests are enabled, please take extra care before charging your vehicle.",
       "test": "Test",
-      "gfcitest": ">GFCI Self Test:",
+      "gfcitest": "GFCI Self Test:",
       "gndmon": "Ground Monitoring:",
       "stckctdet": "Stuck Contact Detection",
       "tempmon": "Temperature Monitoring:",
